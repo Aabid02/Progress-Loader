@@ -2,7 +2,7 @@ const numb = document.querySelector(".key");
 let counter = 0;
 
 setInterval(() => {
-  if(counter==90){
+  if(counter==100){
     clearInterval();
   }
   else{
